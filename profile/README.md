@@ -2,6 +2,10 @@
 
 ### Here you will find source code and documentation for our games.
 ### Have a happy code :3
+
+
+# AVISO AOS PROGRAMADORES
+### leiam a documentaçao de padronização de commits antes de começar a codar, MANTENHAM OS REPOSITORIOS ORGANIZADOS!!!!!
 <!--
 
 **Here are some ideas to get you started:**
