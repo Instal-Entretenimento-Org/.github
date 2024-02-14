@@ -1,5 +1,7 @@
-## Bem-vindo ao Novo.
-# Bem vindo a instal!
+# Bem-vindo ao Novo <br>Bem vindo a instal!
+
+### Here you will find source code documentation for our games.
+### Have a happy code :3
 <!--
 
 **Here are some ideas to get you started:**
