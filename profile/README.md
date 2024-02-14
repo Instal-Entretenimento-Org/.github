@@ -1,6 +1,6 @@
 # Bem-vindo ao Novo <br>Bem vindo a instal!
 
-### Here you will find source code documentation for our games.
+### Here you will find source code and documentation for our games.
 ### Have a happy code :3
 <!--
 
