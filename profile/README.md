@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Bem-vindo ao Novo.
+# Bem vindo a instal!
 <!--
 
 **Here are some ideas to get you started:**
