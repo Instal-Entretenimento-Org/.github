@@ -6,6 +6,8 @@
 
 # AVISO AOS PROGRAMADORES
 ### leiam a documentaçao de padronização de commits antes de começar a codar, MANTENHAM OS REPOSITORIOS ORGANIZADOS!!!!!
+
+### link para a documentação: https://github.com/Instal-Entretenimento-Org/Instal-Entretenimento-Org.github.io
 <!--
 
 **Here are some ideas to get you started:**
